@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/afizs/content-creation"
-"Bug Tracker" = "https://github.com/afizs/content-creation/issues"
+"Homepage" = "https://github.com/afizs/hello-emoji"
+"Bug Tracker" = "https://github.com/afizs/hello-emoji/issues"
